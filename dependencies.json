@@ -1,0 +1,17 @@
+[ {
+  "name" : "SalesForce",
+  "version" : "1.8",
+  "artifactType" : "PREFAB"
+}, {
+  "name" : "clear-glass",
+  "version" : "1.0",
+  "artifactType" : "THEME"
+}, {
+  "name" : "googlemaps",
+  "version" : "6.2",
+  "artifactType" : "PREFAB"
+}, {
+  "name" : "youtube",
+  "version" : "2.6",
+  "artifactType" : "PREFAB"
+} ]

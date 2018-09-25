@@ -1,0 +1,9 @@
+{
+  "messages" : {
+    "LABEL_APPLICATION_NAME" : "WaveMaker"
+  },
+  "formats" : {
+    "date" : "",
+    "time" : ""
+  }
+}
